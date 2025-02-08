@@ -91,7 +91,3 @@ Open your browser and navigate to [http://localhost:3000](http://localhost:3000)
 ## License
 
 This project is licensed under the MIT License.
-
----
-
-Feel free to adjust the content as needed for your project's specific details or any additional features you may include.
