@@ -1,4 +1,4 @@
-# 2D Shmup Starter Kit
+# 2D Game Starter Boilerplate
 
 A boilerplate for developing 2D shooting games using TypeScript, Webpack, and Express.
 
